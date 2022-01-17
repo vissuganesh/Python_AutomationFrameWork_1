@@ -22,4 +22,3 @@ class TestLogin():
         homepage.click_welcome()
         homepage.click_logout()
         time.sleep(2)
-        print("User logged out Successfully")
